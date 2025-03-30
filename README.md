@@ -4,6 +4,6 @@
 
 ### How to submit your code for review:
 
-I completed the challenge: 5
-I feel good about my code: 4.5
+I completed the challenge: 5<br>
+I feel good about my code: 4.5<br>
 It was okay to do, easier having done in class 
